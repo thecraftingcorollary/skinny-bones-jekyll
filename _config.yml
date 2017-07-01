@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "the crafting corollary"
-description: "trivial results made possible by the work of others"
+description: "my amateur take on a whole bunch of things which people do professionally"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
